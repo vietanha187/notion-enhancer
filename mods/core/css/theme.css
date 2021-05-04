@@ -1120,6 +1120,6 @@
 }
 .notion-code-block .token.boolean {
   color: var(--theme--code_boolean) !important;
-}
+} <style>
 @import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
 </style>
